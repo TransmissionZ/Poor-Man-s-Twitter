@@ -1,5 +1,5 @@
 # Poor Man's Twitter
-![Poor Man's Twitter](Poor Man's Twitter.png)
+![Poor Man's Twitter](https://github.com/TransmissionZ/Poor-Man-s-Twitter/blob/sample/Poor%20Man's%20Twitter.png?raw=true)
 
 # Django Setup
 
