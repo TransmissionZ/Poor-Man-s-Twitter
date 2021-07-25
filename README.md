@@ -33,4 +33,7 @@ npm run lint
 
 # Important Notes
 
-### 
+### Add secret key to your environment or .env file in root folder
+```
+django-insecure-(i517xtae4t=-*43re4jik!84f@!n76v#8!35_!pfxx_+!azic
+```
