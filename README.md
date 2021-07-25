@@ -1,5 +1,5 @@
 # Poor Man's Twitter
-![Poor Man's Twitter](Poor Man's Twitter.png?raw=true "Poor Man's Twitter")
+![Poor Man's Twitter](Poor Man's Twitter.png)
 
 # Django Setup
 
