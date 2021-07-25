@@ -16,7 +16,7 @@ pip install djangorestframework
 
 ## Project setup
 ```
-Install vue, axios using npm
+Install vue, axios, bootstrap, jquery using npm
 ```
 
 # Running Poor Man's Twitter
