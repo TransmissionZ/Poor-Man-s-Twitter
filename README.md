@@ -1,3 +1,6 @@
+# Poor Man's Twitter
+![Poor Man's Twitter](Poor Man's Twitter.png?raw=true "Poor Man's Twitter")
+
 # Django Setup
 
 ## Installation Guide
@@ -13,22 +16,21 @@ pip install djangorestframework
 
 ## Project setup
 ```
-npm install
+Install vue, axios using npm
 ```
 
-### Compiles and hot-reloads for development
+# Running Poor Man's Twitter
 ```
-npm run serve
+1) python manage.py runserver (should be on port 8000)
 ```
-
-### Compiles and minifies for production
 ```
-npm run build
+2) Open new terminal and cd poormans_vue
 ```
-
-### Lints and fixes files
 ```
-npm run lint
+3) npm run serve (should be on port 8080)
+```
+```
+4) open http://localhost:8080 on your browser
 ```
 
 # Important Notes
