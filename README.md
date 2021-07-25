@@ -1,4 +1,15 @@
-# poormans_vue
+# Django Setup
+
+## Installation Guide
+```
+https://docs.djangoproject.com/en/3.2/topics/install/
+```
+
+## Install djangorestframework
+```
+pip install djangorestframework
+```
+# Vue Setup
 
 ## Project setup
 ```
@@ -20,5 +31,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Important Notes
+
+### 
